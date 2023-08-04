@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\signalr_team.props" />
+</Project>
